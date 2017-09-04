@@ -1,0 +1,28 @@
+[debug] [2017-09-04T17:50:16.201Z] ----------------------------------------------------------------------
+[debug] [2017-09-04T17:50:16.205Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\luis\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-09-04T17:50:16.205Z] CLI Version:   3.10.0
+[debug] [2017-09-04T17:50:16.205Z] Platform:      win32
+[debug] [2017-09-04T17:50:16.205Z] Node Version:  v6.11.2
+[debug] [2017-09-04T17:50:16.205Z] Time:          Mon Sep 04 2017 12:50:16 GMT-0500 (Hora de verano central (México))
+[debug] [2017-09-04T17:50:16.205Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-09-04T17:50:16.225Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-09-04T17:50:16.225Z] > authorizing via signed-in user
+[debug] [2017-09-04T17:50:16.233Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/musicpro-4deb4  
+ Mon Sep 04 2017 12:50:16 GMT-0500 (Hora de verano central (México))
+[debug] [2017-09-04T17:50:16.795Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-04T17:50:16.795Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/musicpro-4deb4/tokens  
+ Mon Sep 04 2017 12:50:16 GMT-0500 (Hora de verano central (México))
+[debug] [2017-09-04T17:50:17.181Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\luis\Personal\universidad\tareas\ING I\pia'...
+[info] 
+[debug] [2017-09-04T17:50:17.196Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/musicpro-4deb4  
+ Mon Sep 04 2017 12:50:17 GMT-0500 (Hora de verano central (México))
+[debug] [2017-09-04T17:50:17.526Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-04T17:50:17.526Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/737642616268/clients/_:getWebAppConfig  
+ Mon Sep 04 2017 12:50:17 GMT-0500 (Hora de verano central (México))
+[debug] [2017-09-04T17:50:18.030Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: site
+[info] +  hosting: Local server: http://localhost:5000
+
